@@ -17,8 +17,7 @@ I work on **OpenSearch at AWS** and contribute to [Floci](https://github.com/flo
 ## Selected projects
 
 - **[Par Level Reset](https://github.com/jprice8/plr)** — A React and Django application for setting inventory replenishment levels from historical usage data.
-- **[MiniStack ad server](https://github.com/jprice8/ministack)** — A Django ad server with OpenRTB bid handling, creative management, and JavaScript ad rendering.
-- **[Web analytics](https://github.com/jprice8/web-analytics)** — A small Go service for tracking page views across websites.
+- **[Pre-RFP (HyperSearch)](https://pre-rfp-web.vercel.app)** — A platform for discovering government contract opportunities through document ingestion, search, and lead tracking.
 
 [All repositories](https://github.com/jprice8?tab=repositories)
 
